@@ -1,0 +1,48 @@
+body{
+     position: relative;
+}
+.img-principal{     
+     background-image: url(../IMG/ba1.jpg);
+     height: 100vh;
+     position: relative;
+     max-width: 100%;
+     background-size: cover;
+     
+}
+.btn-comprar{
+     background-color: #2eac49;
+}
+
+.color-tickets{
+     color: #3a9b54;
+}
+.img-honolulu{
+     background-color: #353A40;
+}
+
+.texto-honolulu{
+     position: absolute;
+     right: 8rem;
+     top: 40%;
+     max-width: 25%;
+     
+}
+
+.btn-enviar{
+     background-color: #9bd13e;
+}
+.footer{
+     white-space: pre-line;
+     display: flex;
+     background-color: #1d445c;
+     align-items: center;
+}
+
+
+
+
+
+
+
+
+
