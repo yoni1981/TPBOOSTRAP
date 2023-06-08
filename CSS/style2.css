@@ -27,7 +27,24 @@ body{
      max-width: 25%;
      
 }
-
+.estudiante{
+     border-style:solid;
+     border-color: blue;
+}
+.trainee{
+     border-style:solid;
+     border-color:green ;
+}
+.junior{
+     border-style:solid;
+     border-color: orange;
+}
+.total{
+     background-color:#CCE5FF;
+}    
+.total-color{
+    color: #353A40;
+}
 .btn-enviar{
      background-color: #9bd13e;
 }
